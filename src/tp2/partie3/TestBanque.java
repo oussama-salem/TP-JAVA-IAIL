@@ -9,9 +9,9 @@ public class TestBanque {
 	     Banque b = new Banque("MarocBank", 1500);
 
 	     // Question2
-	     CompteBancaire c1 = new CompteBancaire("Oussama", 1000, 500);
-	     CompteBancaire c2 = new CompteBancaire("Hanane", 2000, 300);
-	     CompteBancaire c3 = new CompteBancaire("Brahim", 1500, 400);
+	     CompteBancaire c1 = new CompteBancaire("Oussama", 2000, 500);
+	     CompteBancaire c2 = new CompteBancaire("Hanane", 3000, 300);
+	     CompteBancaire c3 = new CompteBancaire("Brahim", 2500, 400);
 
 	     // Question3
 	     b.ajouterCompte(c1);
